@@ -36,7 +36,7 @@
 </head>
 <body background= "bg.jpg" style = "background-size: cover; background-attachment: fixed;">
     <?php
-    $nim  = 192520045;
+    $nim  = 192520029;
     $nama = "Heri Setyawan";
     $alamat = "Tamansari, Butuh, Purworejo";
     $alamat_email = "herisetyawan322@gmail.com";
